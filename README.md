@@ -58,8 +58,7 @@ Or you also can click "BACK TO THE HOME PAGE" button
 
 If you click "SEE THE CORRELATION OF THE ACTUAL DATA!" button in the Home Page, you will come to the graph page..
 
-![image](https://github.com/BillyGratia15/Final_Project_JCDS/blob/master/screenshots/graph1.png)
-![image](https://github.com/BillyGratia15/Final_Project_JCDS/blob/master/screenshots/graph2.png)
+![image](https://github.com/BillyGratia15/Final_Project_JCDS/blob/master/screenshots/graph.png)
 
 5. Medication Page 
 
